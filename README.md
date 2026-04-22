@@ -55,7 +55,7 @@ Built by [NBI Project](https://nbi-project.fr/).
 - [ ] Bug fixes based on beta feedback
 - [ ] Code signing (remove SmartScreen prompt)
 
-Have an idea or found a bug? [Open an issue](https://github.com/KoRIOz675/sapphire/issues) — feedback is welcome.
+Have an idea or found a bug? [Open an issue](https://github.com/KoRIOz675/sapphire-releases/issues) — feedback is welcome.
 
 ---
 
